@@ -1,1 +1,1 @@
-# R-analiza_skupien
+# Projekt dotyczył analizy skupień na wybranym zbiorze danych - została przeprowadzona ekploracyjna analiza danych, przygotowany został zbiór uczący i testowy, następnie wybrane zostały zmienne poddane normalizaci. Kolejnym krokiem był wybór metody klasyfikacji i miary odległości. Końcowym etapem projektu była ocena wyników klasyfikacji.
