@@ -8,7 +8,7 @@ library(corrplot)
 library(dplyr)
 library(flexclust)
 ##########zbior mial 4898 rekordow, zmniejszylem go do 3500 rekordow 
-mydata1 <- read.csv("D:/AAMECHATRONIKA/DATA MINING/Analizaskupien/winequality-white.csv", sep=";")
+mydata1 <- read.csv("D:sciezka", sep=";")
 # Prepare Data
 mydata1 <- na.omit(mydata1) # usuniecie brakujacych rekordow
 ####sprawdzenie typow zmiennych 
